@@ -1,0 +1,5 @@
+---
+http_host: "bigapp.com"
+http_conf: "bigapp.conf"
+http_port: "80"
+app_port: 5000
